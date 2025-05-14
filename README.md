@@ -2,7 +2,7 @@
 
 This repository contains code to simulate from and fit the directional ILMs described in "Directional Spatial Individual Level Models of Infectious Disease Transmission" by Peitsch, Pokharel, and Deardon; available at https://hdl.handle.net/1880/121536. 
 
-SimStudyPopulation.txt provides the (X,Y) locations of individiduals used in the simulation study. 
+population.txt provides the (X,Y) locations of individiduals used in the simulation study. 
 
 SimulationVonMises.c and SimulationWrappedCauchy.c provide code to simulate epidemics using the directional ILM with their respective circular distributions. 
 
